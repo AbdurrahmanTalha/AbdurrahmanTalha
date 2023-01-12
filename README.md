@@ -5,7 +5,7 @@
 ### Connect with me:
 
 <a href="https://www.facebook.com/profile.php?id=100089366829069">
-    <img width="30px" src="https://user-images.githubusercontent.com/66727914/211964633-5ef2e0c6-78b6-4a19-ba06-588775ba3dbd.svg">
+    ![#f03c15](https://user-images.githubusercontent.com/66727914/211964633-5ef2e0c6-78b6-4a19-ba06-588775ba3dbd.svg)
 </a>
 
 <a href="https://www.linkedin.com/in/abtalha/">
