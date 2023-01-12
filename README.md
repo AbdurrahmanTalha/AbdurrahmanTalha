@@ -15,7 +15,7 @@
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/AbdurrahmanTalha/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/>
+    <img height="230px" src="https://raw.githubusercontent.com/AbdurrahmanTalha/cf-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
 <br/>
 <br/>
