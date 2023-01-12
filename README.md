@@ -7,7 +7,7 @@
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
 
 <a href="https://www.linkedin.com/in/abtalha/">
-    ![linkedin](https://user-images.githubusercontent.com/66727914/211964143-0797b9dc-df2f-49f1-9b50-62320f94224b.svg)
+    <img width="30px" src="https://user-images.githubusercontent.com/66727914/211964143-0797b9dc-df2f-49f1-9b50-62320f94224b.svg" alt="linkedin"/>
 </a>
 <br />
 <br />
