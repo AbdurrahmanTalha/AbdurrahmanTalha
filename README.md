@@ -6,13 +6,13 @@
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
 
-<a href="https://www.linkedin.com/in/rahat-khan-pathan/">
+<a href="https://www.linkedin.com/in/abtalha/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 <br />
 <br />
 
-<a href="https://codeforces.com/profile/rahat_khan_pathan">
+<a href="https://codeforces.com/profile/Abdurrahmantalha.dev">
    <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
