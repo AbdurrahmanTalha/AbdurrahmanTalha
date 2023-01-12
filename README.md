@@ -41,7 +41,7 @@
 ---
   ### :zap: GitHub Stats
   <br/>
-  <img align="center" alt="Abdur Rahman Talha's github status" src="[https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=AbdurrahmanTalha&show_icons=true&theme=tokyonight)" />
+  <img align="center" alt="Abdur Rahman Talha's github status" src="https://github-readme-stats.vercel.app/api?username=AbdurrahmanTalha&show_icons=true&theme=tokyonight" />
 <br />
 
 ---
