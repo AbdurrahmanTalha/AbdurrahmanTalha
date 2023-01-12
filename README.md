@@ -1,16 +1,58 @@
-<h2>👋 Hello Folks!</h2>
+### Hi there, I'm Abdur Rahman Talha 👋
 
-<p>My name is Abdur Rahman Talha. I am a Full stack Devoloper. I love making websites. I am from Bangladesh.</p>
+## I'm a Learner, software engineer and a program solver!
 
-<h2>✨Technology I know✨</h2>
+### Connect with me:
 
-<img src="https://user-images.githubusercontent.com/66727914/184381568-2843dfa1-1d5a-4be0-bb72-38601b17a7d9.svg" width="32px"/>							<img src="https://user-images.githubusercontent.com/66727914/184381879-a2f392d6-b841-4c50-87e5-377369d74279.svg" width="32px" /> <img src="https://user-images.githubusercontent.com/66727914/184382194-d7f3f54e-d3b3-4709-9b0d-42f46b49b970.svg" width="32px" />  <img src="https://user-images.githubusercontent.com/66727914/184382564-fc295221-a152-4376-b3ad-11cb30d95694.svg" width="32px"/> <img src="https://user-images.githubusercontent.com/66727914/184382966-450a4508-ac1c-480b-9eff-b109d3318644.svg" width="32px"/> <img src="https://user-images.githubusercontent.com/66727914/184383175-12ab1017-53e9-45bf-b5ee-e7bff1354b94.svg" width="32px"/> <img src="https://user-images.githubusercontent.com/66727914/184383403-d8c02c79-391d-4e96-9f04-96951fdb57db.svg" width="32px"/> <img src="https://user-images.githubusercontent.com/66727914/184383622-d115e86d-7167-438c-921d-e0ee4c11810f.svg" width="32px"/> <img src="https://user-images.githubusercontent.com/66727914/184383833-529e02ca-39d2-41a9-99b9-732490385aa7.svg" width="32px" />
+[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][https://www.facebook.com/profile.php?id=100089366829069]
+
+<a href="https://www.linkedin.com/in/rahat-khan-pathan/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
+</a>
+<br />
+<br />
+
+<a href="https://codeforces.com/profile/rahat_khan_pathan">
+   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
+
+<b>&#128200; Competitive Programming</b>
+<br />
+<p float="left">
+    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+</p>
+<br/>
+<br/>
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
+  ### :zap: GitHub Stats
+  <br/>
+  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
+<br />
+
+---
+  
+  <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
 
 
-
-
-
-
-
-
-
+[facebook]: https://www.facebook.com/rahatkhanpathan.1999/
