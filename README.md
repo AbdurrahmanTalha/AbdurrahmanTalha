@@ -4,7 +4,9 @@
 
 ### Connect with me:
 
-[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
+<a href="https://www.facebook.com/profile.php?id=100089366829069">
+    <img width="30px" src="https://user-images.githubusercontent.com/66727914/211964633-5ef2e0c6-78b6-4a19-ba06-588775ba3dbd.svg">
+</a>
 
 <a href="https://www.linkedin.com/in/abtalha/">
     <img width="30px" src="https://user-images.githubusercontent.com/66727914/211964143-0797b9dc-df2f-49f1-9b50-62320f94224b.svg" alt="linkedin"/>
@@ -45,6 +47,3 @@
 ---
   
   <img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
-
-
-[facebook]: https://www.facebook.com/profile.php?id=100089366829069
