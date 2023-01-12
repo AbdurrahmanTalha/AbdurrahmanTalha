@@ -17,7 +17,7 @@
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/AbdurrahmanTalha/cf-stats/main/output/light_card.svg?token=GHSAT0AAAAAAB42VQPRRYKGY7RM34JYQO4OY57OW5Q" alt="Statistics"/>
+    <img height="230px" src="https://raw.githubusercontent.com/AbdurrahmanTalha/cf-stats/main/output/light_card.svg?token=GHSAT0AAAAAAB42VQPQYATLRGJX544OOKA4Y57QLLQ" alt="Statistics"/>
 </p>
 <br/>
 <br/>
